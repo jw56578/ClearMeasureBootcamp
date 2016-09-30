@@ -1,0 +1,41 @@
+{
+  "Id": "2a9b253d-57e4-441d-bd18-192f45bc8016",
+  "Name": "Script created at 2016-09-30 11:15.",
+  "ObjectIds": [
+    {
+      "Name": "AuditEntry",
+      "Owner": "dbo",
+      "ObjectType": "Table"
+    },
+    {
+      "Name": "Employee",
+      "Owner": "dbo",
+      "ObjectType": "Table"
+    },
+    {
+      "Name": "ExpenseReportFact",
+      "Owner": "dbo",
+      "ObjectType": "Table"
+    },
+    {
+      "Name": "ExpenseReport",
+      "Owner": "dbo",
+      "ObjectType": "Table"
+    },
+    {
+      "Name": "Expense",
+      "Owner": "dbo",
+      "ObjectType": "Table"
+    },
+    {
+      "Name": "usd_AppliedDatabaseScript",
+      "Owner": "dbo",
+      "ObjectType": "Table"
+    },
+    {
+      "Name": "MostRecentExpenseReportFactView",
+      "Owner": "dbo",
+      "ObjectType": "View"
+    }
+  ]
+}
