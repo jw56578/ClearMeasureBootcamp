@@ -1,0 +1,13 @@
+diff --git a/Tables/dbo.Expense.sql b/Tables/dbo.Expense.sql
+index 0a536dc..4449a9c 100644
+--- a/Tables/dbo.Expense.sql
++++ b/Tables/dbo.Expense.sql
+@@ -2,7 +2,7 @@
+ (
+ [ExpenseReportId] [uniqueidentifier] NOT NULL,
+ [Sequence] [int] NOT NULL,
+-[Description] [nvarchar] (4000) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
++[DescriptionDude] [nvarchar] (4000) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
+ [Amount] [money] NULL
+ ) ON [PRIMARY]
+ GO
